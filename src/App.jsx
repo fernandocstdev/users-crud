@@ -2,7 +2,7 @@ import { useState } from "react"
 import { usuarios } from "./constants/user"
 import { useDarkMode } from "./hooks/useDarkMode";
 import { useAuth } from "./hooks/useAuth";
-import { Index } from './pages/Index'
+import { Index } from './pages/index'
 import './App.css'
 import { Login } from "./pages/login"
 
