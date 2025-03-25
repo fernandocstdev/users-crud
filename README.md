@@ -28,8 +28,8 @@ Asegúrate de tener instalado en tu sistema:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone git@github.com:fernandocstdev/users-crud.git
+   cd users-crud
    ```
 
 2. **Instalar dependencias:**
@@ -113,5 +113,5 @@ Base URL: `https://jsonplaceholder.typicode.com/users`
 - [✅] Validaciones en el formulario (por ejemplo, campos obligatorios, correo electrónico válido).
 - [✅] Barra de búsqueda para filtrar usuarios por nombre o correo.
 - [✅] Mostrar mensajes de error si falla alguna llamada al API.
-- [ ] Diseñar la interfaz para que sea responsiva.
+- [✅] Diseñar la interfaz para que sea responsiva.
 
