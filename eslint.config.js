@@ -28,6 +28,9 @@ export default [
         'warn',
         { allowConstantExport: true },
       ],
+      'quotes': ['error', 'single'],
+      'semi': ['error', 'never'],
+      'eol-last': ['error', 'always'],
     },
   },
 ]
